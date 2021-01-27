@@ -12,7 +12,11 @@ Physical Data Structures
 
 Logical Data Structures
 
-1. Stack
+1. Stack 
+
+   - Generic Stack by Array 
+   - Generic Stack by Single Linked List
+   
 2. Queue
 3. Tree
 4. Graph
