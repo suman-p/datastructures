@@ -1,4 +1,4 @@
-# datastructures
+# Data Structures
 
 This project includes source code for implementing Physical and Logical Data Structures using Java 11 with Unit Test cases in JUNIT 5
 
